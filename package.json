@@ -1,0 +1,22 @@
+{
+  "name": "olympic-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codymikol/olympic-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codymikol/olympic-scraper/issues"
+  },
+  "homepage": "https://github.com/codymikol/olympic-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.3"
+  }
+}
